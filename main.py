@@ -19,7 +19,7 @@ async def root():
 async def say_hello(name: str):
     return {
         "message": f"Hello {name}",
-        "Sender": f"Bar Kroitero"
+        "Sender": f"Bar Kroitoro"
     }
 
 
